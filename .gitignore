@@ -1,0 +1,7 @@
+.env
+__pycache__
+DTOs/__pycache__
+controllers/__pycache__
+entity_manager\__pycache__
+repositories\__pycache__
+services\__pycache__
